@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:28:03.576052
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:35
 #+TITLE: 大方廣佛花嚴經入法界品頓證毘盧遮那法身字輪瑜伽儀軌
 #+PROPERTY: CBETA_ID T19n1020
 #+PROPERTY: ID KR6j0213
