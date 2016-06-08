@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:28:03.576052
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:35
 #+TITLE: 大方廣佛花嚴經入法界品頓證毘盧遮那法身字輪瑜伽儀軌
 #+PROPERTY: CBETA_ID T19n1020
 #+PROPERTY: ID KR6j0213
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 19, No. 1020
 #+PROPERTY: VOL 19
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0213_T_001-0709b> 
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1020¶
-
- 大方廣佛花嚴經入法界品頓證¶
+No. 1020¶
+大方廣佛花嚴經入法界品頓證¶
 毘盧遮那法身字輪瑜伽儀軌¶
 ¶
 
@@ -42,10 +41,7 @@ No.1020¶
 盧遮那如來智身。於諸法中得無障礙。
 <pb:KR6j0213_T_001-0709c>¶
 
-:PROPERTIES:
-:head: 圓明字輪
-:END:
-¶
+* 圓明字輪¶
 
 ¶
 ¶
